@@ -1,6 +1,11 @@
 # Observious
 Observious is a Cracked Game Installer
 
+- Note
+```
+this app isn´t finished yet. im going to work on it later
+```
+
 Download free cracked apps in the launcher.
 
 ## Pictures
