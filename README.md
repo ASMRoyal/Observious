@@ -4,9 +4,7 @@ Download free cracked apps in the launcher.
 
 
 ## Note
-```
 ~~this app isn´t finished yet. im going to work on it later~~ -> Out now!
-```
 
 ## Pictures
 
